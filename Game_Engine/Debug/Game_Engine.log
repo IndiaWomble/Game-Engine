@@ -1,0 +1,4 @@
+﻿  GameOver.cpp
+D:\C++\Game Engine\Game_Engine\GameOver.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Game Engine\Game_Engine\GameOver.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  Game_Engine.vcxproj -> D:\C++\Game Engine\Game_Engine\Debug\Game_Engine.exe
